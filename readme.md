@@ -1,6 +1,6 @@
 <div style="display: inline_block" align="center"><br>
 
-  <h1>Hi!, I'm Felipe Praxedes, Jr.developer 👋<h1/>
+  <h1>Felipe Praxedes👋<h1/>
   <img align="center" alt="csharp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Android" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="TypeScrip" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
